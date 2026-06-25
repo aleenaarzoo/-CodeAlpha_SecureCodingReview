@@ -1,3 +1,7 @@
+# Secure Coding Review Project
+# CodeAlpha Cyber Security Internship
+# Author: Aleena Arzoo
+
 username = input("Enter username: ")
 password = input("Enter password: ")
 
